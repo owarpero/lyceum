@@ -1,0 +1,10 @@
+export const ballRadius = 8;
+export const brickRowCount = 26;
+export const brickColumnCount = 5;
+export const brickWidth = 14;
+export const brickHeight = 14;
+export const brickPadding = 0.1;
+export const brickOffsetTop = 30;
+export const brickOffsetLeft = 30;
+export const paddleHeight = 10;
+export const paddleWidth = 75;

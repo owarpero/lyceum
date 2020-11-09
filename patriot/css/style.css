@@ -1,0 +1,87 @@
+body {
+  background: white;
+  color: #263A88;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  font-style: initial;
+}
+/*стили шапки*/
+
+.header {
+  max-width: 1230px;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.list {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  list-style: none;
+}
+
+.button {
+  background:#a17fff49;
+  color: #263A88;
+  min-width: 200px;
+  min-height: 60px;
+  text-align: center;
+  padding: 15px;
+  border: none;
+  box-sizing: border-box;
+  border-radius: 20px;
+  text-decoration: none;
+  margin-bottom: 100px;
+}
+
+.loginIn {
+  color: #263A88;
+  font-style: bold;
+  text-decoration: none;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 18px;
+  line-height: 14px;
+}
+
+.main {
+  text-align: center;
+/*  padding-top: 35px;*/
+  padding-bottom: 35px;
+}
+
+.title {
+  font-family: 'Montserrat', sans-serif;
+  float: left;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  margin-bottom: 0;
+  margin-top: 0;
+  margin-right: 900px;
+}
+
+.logo{
+  width: 26px;
+  height: 26px;
+}
+
+.content{
+  width: 1920px;
+  height: 400px;
+  
+}
+
+.startButton{
+  background:#a17fff49;
+  color: #263A88;
+  text-align: center;
+  padding: 15px;
+  border: none;
+  box-sizing: border-box;
+  border-radius: 20px;
+  text-decoration: none;
+  margin-right: 1100px;
+}
